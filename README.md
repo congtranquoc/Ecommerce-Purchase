@@ -16,7 +16,7 @@ Tập dữ liệu được sử dụng cho phân tích này bao gồm các bản
 Chương trình demo thực hiện các nhiệm vụ phân tích sau trên tập dữ liệu:
 1. Tìm mối quan hệ giữa 5 chức danh công việc hàng đầu và tổng số tiền mua hàng: Phân tích này xác định 5 chức danh công việc hàng đầu và số tiền mua hàng tương ứng.
 2. Tìm mối quan hệ giữa chức danh công việc và giá trị trung bình của tổng số tiền mua hàng: Phân tích này xác định giá trị trung bình của tổng số tiền mua hàng cho mỗi chức danh công việc
-3. Làm thế nào giá trị mua hàng phụ thuộc vào trình duyệt internet được sử dụng và chức danh (nghề nghiệp) của người mua hàng?
+3. Giá trị mua hàng phụ thuộc vào trình duyệt internet được sử dụng và chức danh (nghề nghiệp) của người mua hàng như thế nào?
 4. Có mẫu nào xuất hiện trong các giao dịch mua hàng dựa trên địa điểm (tỉnh/thành phố) và thời gian mua hàng (AM hoặc PM) không?
 5. Mua hàng phụ thuộc vào nhà cung cấp thẻ tín dụng (CC) và thời gian mua hàng (AM hoặc PM) như thế nào?
 6. Những địa điểm nào là 5 địa điểm hàng đầu cho các giao dịch mua hàng?
