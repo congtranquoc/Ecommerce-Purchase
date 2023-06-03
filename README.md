@@ -12,7 +12,7 @@ Tập dữ liệu được sử dụng cho phân tích này bao gồm các bản
 3. Thư viện NumPy (phiên bản 1.20.0 trở lên)
 4. Thư viện Matplotlib (phiên bản 3.3.0 trở lên)
 
-#Task
+## Task
 Chương trình demo thực hiện các nhiệm vụ phân tích sau trên tập dữ liệu:
 1. Tìm mối quan hệ giữa 5 chức danh công việc hàng đầu và tổng số tiền mua hàng: Phân tích này xác định 5 chức danh công việc hàng đầu và số tiền mua hàng tương ứng.
 2. Tìm mối quan hệ giữa chức danh công việc và giá trị trung bình của tổng số tiền mua hàng: Phân tích này xác định giá trị trung bình của tổng số tiền mua hàng cho mỗi chức danh công việc
